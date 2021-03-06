@@ -6,9 +6,9 @@ The aim is top provide exactly four data visulisations for each data set.
 
 We have been allocated three data sets from the tidy tuesday github, this are shown below with the link to view:
 
-    1.Australian Fires	Tidy Tuesday	https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-01-07                
-    2.Global Crop Yields	Tidy Tuesday	https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-09-01
-    3.San Fransico Trees	Tidy Tuesday	https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-01-28
+  1.Australian Fires	Tidy Tuesday	https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-01-07                
+  2.Global Crop Yields	Tidy Tuesday	https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-09-01      
+  3.San Fransico Trees	Tidy Tuesday	https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-01-28
 
 #### Github Repository 
 
