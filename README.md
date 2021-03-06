@@ -19,5 +19,5 @@ Contents:
 1. Code for the Shiny App https://github.com/georginaanna/Data-Visualisation/blob/main/Australian%20Temperatures.R
 2. bgraph.png - the bad visulisation for the critique section 
 3. ggraph.png & ggraph1 - the good visulisation for the critique section (in two parts- one part is the key) 
-4. 
-5. 
+4. Data Visualisation Portfolio and Critique (PDF) - Report
+5. Data Visualisation Portfolio and Critique (rmarkdown with reproducible code) 
